@@ -1,0 +1,13 @@
+{
+  "name": "Garnertb Organization Workflow",
+  "description": "Garnertb Organization CI starter workflow.",
+  "iconName": "octicon-code-of-conduct",
+  "categories": [
+      "Go"
+  ],
+  "filePatterns": [
+      "package.json$",
+      "^Dockerfile",
+      ".*\\.md$"
+  ]
+}
